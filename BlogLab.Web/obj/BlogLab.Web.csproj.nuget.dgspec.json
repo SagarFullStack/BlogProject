@@ -4,6 +4,74 @@
     "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {}
   },
   "projects": {
+    "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\BlogLab.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\BlogLab.Identity.csproj",
+        "projectName": "BlogLab.Identity",
+        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\BlogLab.Identity.csproj",
+        "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj"
+              },
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -65,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
+    "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
-        "projectName": "BlogLab.Web",
-        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj",
+        "projectName": "BlogLab.Repository",
+        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj",
         "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\obj\\",
+        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,6 +172,184 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.89, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\BlogLab.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\BlogLab.Services.csproj",
+        "projectName": "BlogLab.Services",
+        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\BlogLab.Services.csproj",
+        "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.29.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.23.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.23.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "projectName": "BlogLab.Web",
+        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\BlogLab.Identity.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Identity\\BlogLab.Identity.csproj"
+              },
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Models\\BlogLab.Models.csproj"
+              },
+              "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\BlogLab.Services.csproj": {
+                "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Services\\BlogLab.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.23.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,17 @@
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.deps.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Identity.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Models.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Repository.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Models.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\bin\Debug\net6.0\BlogLab.Repository.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.csproj.CopyComplete
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\refint\BlogLab.Identity.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\BlogLab.Identity.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Identity\obj\Debug\net6.0\ref\BlogLab.Identity.dll
