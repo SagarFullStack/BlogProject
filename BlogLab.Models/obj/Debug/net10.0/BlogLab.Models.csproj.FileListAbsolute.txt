@@ -1,0 +1,13 @@
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\bin\Debug\net10.0\BlogLab.Models.deps.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\bin\Debug\net10.0\BlogLab.Models.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\bin\Debug\net10.0\BlogLab.Models.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.sourcelink.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\refint\BlogLab.Models.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\BlogLab.Models.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Models\obj\Debug\net10.0\ref\BlogLab.Models.dll

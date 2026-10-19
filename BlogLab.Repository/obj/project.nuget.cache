@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+aLswKr5jDbhRbtOjpH6cdSo/2reE+2bQ9owCpl4GuJs3fNcbAYVk8RDovNW+hv7rwWMci9iu96I/mvlCvP8WA==",
+  "dgSpecHash": "Q8ZYB/k94wk=",
   "success": true,
   "projectFilePath": "C:\\Users\\sagar\\OneDrive\\Desktop\\BlogLab\\BlogLab.Repository\\BlogLab.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sagar\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\10.0.13\\microsoft.aspnetcore.cryptography.internal.10.0.13.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\10.0.13\\microsoft.aspnetcore.cryptography.keyderivation.10.0.13.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\10.0.8\\microsoft.bcl.asyncinterfaces.10.0.8.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.13\\microsoft.extensions.configuration.10.0.13.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.13\\microsoft.extensions.configuration.abstractions.10.0.13.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.13\\microsoft.extensions.configuration.binder.10.0.13.nupkg.sha512",
@@ -26,14 +25,7 @@
     "C:\\Users\\sagar\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\sagar\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.13\\system.diagnostics.diagnosticsource.10.0.13.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
-    "C:\\Users\\sagar\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512"
+    "C:\\Users\\sagar\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,7 +8,8 @@ C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\Blog
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.AssemblyInfoInputs.cache
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.AssemblyInfo.cs
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.csproj.CoreCompileInputs.cache
-C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.csproj.CopyComplete
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.sourcelink.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab..EADC421B.Up2Date
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.dll
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\refint\BlogLab.Repository.dll
 C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net6.0\BlogLab.Repository.pdb

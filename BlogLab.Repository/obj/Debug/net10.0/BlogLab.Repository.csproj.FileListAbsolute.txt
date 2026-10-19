@@ -1,0 +1,16 @@
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\bin\Debug\net10.0\BlogLab.Repository.deps.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\bin\Debug\net10.0\BlogLab.Repository.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\bin\Debug\net10.0\BlogLab.Repository.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\bin\Debug\net10.0\BlogLab.Models.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\bin\Debug\net10.0\BlogLab.Models.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.csproj.AssemblyReference.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.sourcelink.json
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab..EADC421B.Up2Date
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\refint\BlogLab.Repository.dll
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\BlogLab.Repository.pdb
+C:\Users\sagar\OneDrive\Desktop\BlogLab\BlogLab.Repository\obj\Debug\net10.0\ref\BlogLab.Repository.dll
